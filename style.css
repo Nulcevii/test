@@ -1,0 +1,16 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: o;
+    min-height: 100vh;
+    
+}
+.kartinka {
+    width: 800px;
+    size: 600%;
+    font-size: large;
+    color: rgb(224, 26, 26);
+
+}
